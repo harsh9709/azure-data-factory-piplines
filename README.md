@@ -12,3 +12,13 @@ using get meta data for only copy files from the particular adls folder based on
 once the desired files are copied to teh destination, one of the file is the source dataset for data flow performing different transformations and dump final data in adls using sink
 
 ![image](https://github.com/user-attachments/assets/d481bf25-94b9-463e-9bf8-3a054d99b0df)
+
+adding scheduled trigger
+
+![image](https://github.com/user-attachments/assets/92f69894-501c-435f-ac06-4fa5a2010ac8)
+
+sucessfull pipeline run
+![image](https://github.com/user-attachments/assets/5d29067d-9faf-4810-8992-509490dc3f31)
+
+csvfile afler tranformation is stored in dataflowoutput folder created in sink activity
+![image](https://github.com/user-attachments/assets/92df4bc6-d669-43ce-8908-d65613c981fb)
